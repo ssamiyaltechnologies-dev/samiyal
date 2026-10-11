@@ -16,3 +16,7 @@ Responsive dark premium website using your silver SAMIYAL logo.
 4. After deployment, open `https://YOUR-USERNAME.github.io`.
 
 The site is a brand website, not proof of company incorporation or guaranteed Google Play organisation verification. Review all policy wording before going live.
+
+
+## Layout/logo fix
+The logo asset is cropped to its visible silver artwork with a transparent background. The header/footer logo no longer uses scaling that crops the wordmark; the hero logo is sized responsively. Upload the whole `assets` folder alongside the HTML/CSS files.
